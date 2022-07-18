@@ -4,7 +4,7 @@ This is a practice on creating chatbot with NLTK library. The file, chatbot.py, 
 ## How to run it?
 1. Download this repo and make sure that chatbot.py and Amazon dresses - Sheet1.csv are within the same folder.
 2. Install packages as needed.
-3. Run chatbot.py in ternimal and start a converstaion!
+3. Run chatbot.py in ternimal and start a conversation!
 4. To leave, type in "quit" or "see you".
 
 ## Something to notice
