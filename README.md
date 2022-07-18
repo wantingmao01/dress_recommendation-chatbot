@@ -7,4 +7,5 @@ This is a practice on creating chatbot with NLTK library. The file, chatbot.py, 
 3. Run chatbot.py in ternimal and start a converstaion!
 
 ## Something to notice
-1. Our project only support recommendation for "one" dress. In other words, please make sure all requirements are in the format of "... a [requirements] dress". For instance, "I'd like a "
+1. Our project only support recommendation for "one" dress. In other words, please make sure all requirements are in the format of "... a [requirements] dress". For instance, "I'd like a empire waist, short sleeve, and v neck dress" (use "a" even if it ought to be "an").
+2. To leave, type in "quit" or "see you".
